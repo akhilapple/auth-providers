@@ -2,8 +2,8 @@
  
 
 // GitHub API configuration 
-define('CLIENT_ID', '2bbd08d236715fa71d6e'); 
-define('CLIENT_SECRET', '1c52c5296ebba9e19854fb1d67ae828561925455'); 
+define('CLIENT_ID', ''); 
+define('CLIENT_SECRET',''); 
 define('REDIRECT_URL', "http://localhost/PHP/Auth-Providers/github/"); 
  
 // Start session 
