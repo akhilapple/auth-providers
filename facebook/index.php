@@ -48,7 +48,7 @@ if (isset($accessToken)) {
      }
  } else {
    // replace your website URL same as added in the developers.Facebook.com/apps e.g. if you used http instead of https and you used            
-   $loginUrl = $helper->getLoginUrl('http://localhost/PHP/fb%20login/', $permissions);
+   $loginUrl = $helper->getLoginUrl('http://localhost:1111', $permissions);
    echo '<a href="' . $loginUrl . '">Log in with Facebook!</a>';
  }
 
