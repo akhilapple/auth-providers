@@ -8,3 +8,5 @@
 3. quick start & facebook login setting fill up the redirect uril
 
 4. get app id and secrete id from app setting 
+
+Note : redirect uri three place and it should be exact same OK :)

@@ -1,4 +1,3 @@
-
 <?php
 include('config.php');
 $accesstoken=$_SESSION['access_token'];

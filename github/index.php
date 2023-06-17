@@ -70,5 +70,5 @@ if(isset($accessToken)){
 
 <div class="container">
     <!-- Display login button / GitHub profile information -->
-    <?php //echo $output; ?>
+    <?php echo $output ?? '<br> <br> <a href="logout.php">Logout </a>'; ?>
 </div>
