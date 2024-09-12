@@ -1,9 +1,9 @@
 <?php
 
 // Google API configuration
-define('GOOGLE_CLIENT_ID', '-');
-define('GOOGLE_CLIENT_SECRET', '-');
-define('GOOGLE_REDIRECT_URL', 'http://localhost/PHP/authgoogle/');
+define('GOOGLE_CLIENT_ID', '905622728282-ps1b6pgu22c0de8cjv8n6r57vskchosv.apps.googleusercontent.com');
+define('GOOGLE_CLIENT_SECRET', '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');
+define('GOOGLE_REDIRECT_URL', 'https://sites.google.com/view/won-own-technologies/profile');
 
 //Include Google Client Library for PHP autoload file
 require_once 'vendor/autoload.php';
